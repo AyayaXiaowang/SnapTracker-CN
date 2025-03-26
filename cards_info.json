@@ -1,0 +1,1858 @@
+[
+    {
+        "name": "黄蜂女",
+        "original_name": "Wasp",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黄蜂女.png",
+        "series": "series5",
+        "effect": "“我的超能力是解决问题。”",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "黄蜂战士",
+        "original_name": "Yellowjacket",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黄蜂战士.png",
+        "series": "series5",
+        "effect": "揭示：使此区域中你的其他卡牌战力-1。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "红斗篷",
+        "original_name": "Hood",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\红斗篷.png",
+        "series": "series5",
+        "effect": "揭示：将1张恶魔添加到你的手牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "太阳黑子",
+        "original_name": "Sunspot",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\太阳黑子.png",
+        "series": "series4",
+        "effect": "每回合结束后，每有1点未消耗的能量，战力+1。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "蚁人",
+        "original_name": "AntMan",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蚁人.png",
+        "series": "series1",
+        "effect": "持续：若你已填满此区域，战力+4。",
+        "artist": "Eduard Petrovich,Ryan Kinnaird"
+    },
+    {
+        "name": "巴斯特",
+        "original_name": "Bast",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\巴斯特.png",
+        "series": "series5",
+        "effect": "揭示：将你所有手牌的战力变为3。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "死侍",
+        "original_name": "Deadpool",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\死侍.png",
+        "series": "series5",
+        "effect": "此牌被删去时战力翻倍，并返回到你的手牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "鹰眼",
+        "original_name": "Hawkeye",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\鹰眼.png",
+        "series": "series0",
+        "effect": "揭示：若你下回合在此区域放置了卡牌，战力+3。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "凯蒂·普莱德",
+        "original_name": "KittyPryde",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\凯蒂·普莱德.png",
+        "series": "series7",
+        "effect": "当此卡牌回到手牌时，战力+1；每回合开始时会返回手牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "星云",
+        "original_name": "Nebula",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\星云.png",
+        "series": "series7",
+        "effect": "每回合，若你的对手未在此区域放置卡牌，战力+2。（你放置此卡牌的回合除外）",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "新星",
+        "original_name": "Nova",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\新星.png",
+        "series": "series3",
+        "effect": "此卡牌被删去时，你的所有卡牌战力+1。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "火箭浣熊",
+        "original_name": "RocketRaccoon",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\火箭浣熊.png",
+        "series": "series3",
+        "effect": "揭示：若对手本回合在此区域放置了卡牌，战力+4。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "蜘猪侠",
+        "original_name": "SpiderHam",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蜘猪侠.png",
+        "series": "series6",
+        "effect": "揭示：将对手手牌中最左边的1张卡牌变为小猪，但保留其战力与能量消耗。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "13号特工",
+        "original_name": "Agent13",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\13号特工.png",
+        "series": "series4",
+        "effect": "揭示：随机将1张卡牌添加到你的手牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "阿美莉卡·查维兹",
+        "original_name": "AmericaChavez",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\阿美莉卡·查维兹.png",
+        "series": "series3",
+        "effect": "揭示：使你卡组中最上方的卡牌战力+2。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "天使",
+        "original_name": "Angel",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\天使.png",
+        "series": "series3",
+        "effect": "当你的1张卡牌被删去后，此牌会从手牌或卡组飞出并替换那张卡牌。",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "艾丽卡",
+        "original_name": "Elektra",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\艾丽卡.png",
+        "series": "series3",
+        "effect": "揭示：删去对手此区域中1张初始能量消耗为1的卡牌。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "霍华德鸭",
+        "original_name": "HowardTheDuck",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\霍华德鸭.png",
+        "series": "series7",
+        "effect": "持续：点击此卡来查看你卡组中最上方的卡牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "霹雳火",
+        "original_name": "HumanTorch",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\霹雳火.png",
+        "series": "series5",
+        "effect": "此卡牌移动时，战力翻倍。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "冰人",
+        "original_name": "Iceman",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\冰人.png",
+        "series": "series4",
+        "effect": "揭示：使对手1张手牌能量消耗+1（最高为6）。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "铁拳",
+        "original_name": "IronFist",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\铁拳.png",
+        "series": "series3",
+        "effect": "揭示：在你放置下一张牌后，将其向左移动一个区域。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "寇格",
+        "original_name": "Korg",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\寇格.png",
+        "series": "series3",
+        "effect": "揭示：将1张石块洗进对手卡组。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "曼蒂斯",
+        "original_name": "Mantis",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\曼蒂斯.png",
+        "series": "series3",
+        "effect": "揭示：若对手此回合在此区域放置了卡牌，则复制其中1张加入你的手牌。",
+        "artist": "Sanford Greene,Ryan Kinnaird"
+    },
+    {
+        "name": "玛丽亚·希尔",
+        "original_name": "MariaHill",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\玛丽亚·希尔.png",
+        "series": "series5",
+        "effect": "揭示：随机将1张初始能量消耗为2的卡牌添加到手牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "姆巴库",
+        "original_name": "MBaku",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\姆巴库.png",
+        "series": "series5",
+        "effect": "对战结束时，此牌从你的卡组跳出并添加到你（没有填满的区域里）战力最低的区域。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "迷雾骑士",
+        "original_name": "MistyKnight",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\迷雾骑士.png",
+        "series": "series0",
+        "effect": "“这座城市需要我们来拯救。”",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "夜行者",
+        "original_name": "Nightcrawler",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\夜行者.png",
+        "series": "series2",
+        "effect": "你可移动此牌1次。",
+        "artist": "Whilce Portacio,Ryan Kinnaird"
+    },
+    {
+        "name": "快银",
+        "original_name": "Quicksilver",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\快银.png",
+        "series": "series0",
+        "effect": "必定出现于起始手牌中。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "昆式战斗机",
+        "original_name": "Quinjet",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\昆式战斗机.png",
+        "series": "series5",
+        "effect": "持续：对战开始时不在你卡组中的卡牌能量消耗-1。（最低为1）",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "雪守卫",
+        "original_name": "Snowguard",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\雪守卫.png",
+        "series": "series6",
+        "effect": "揭示：将1张雪守卫（鹰）和1张雪守卫（熊）加入手牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "松鼠女",
+        "original_name": "SquirrelGirl",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\松鼠女.png",
+        "series": "series2",
+        "effect": "揭示：在其他区域中各添加1张战力为1的松鼠。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "观察者乌阿图",
+        "original_name": "Uatu",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\观察者乌阿图.png",
+        "series": "series3",
+        "effect": "对战开始时，向你揭示右侧区域的效果。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "勇度",
+        "original_name": "Yondu",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\勇度.png",
+        "series": "series3",
+        "effect": "揭示：删去对手卡组中能量消耗最低的卡牌。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "蜘蛛格温",
+        "original_name": "GhostSpider",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蜘蛛格温.png",
+        "series": "series7",
+        "effect": "揭示：将你放置的上一张卡牌移动至此区域。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "回声",
+        "original_name": "Echo",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\回声.png",
+        "series": "series7",
+        "effect": "当对手在此区域放置1张持续效果的卡牌后，移除那张卡牌的特殊效果。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "刀锋战士",
+        "original_name": "Blade",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\刀锋战士.png",
+        "series": "series3",
+        "effect": "揭示：丢弃最右侧的1张手牌。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "零号",
+        "original_name": "Zero",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\零号.png",
+        "series": "series5",
+        "effect": "揭示：移除你放置的下一张卡牌的特殊效果。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "泰坦妮亚",
+        "original_name": "Titania",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\泰坦妮亚.png",
+        "series": "series5",
+        "effect": "任意卡牌被放置到此区域后，此卡牌会换边。",
+        "artist": "Sanford Greene,Ryan Kinnaird"
+    },
+    {
+        "name": "黑舌谋士",
+        "original_name": "EbonyMaw",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑舌谋士.png",
+        "series": "series4",
+        "effect": "第3回合后不可放置此卡牌。持续：你不可在此区域放置卡牌。",
+        "artist": "Ivan Shavrin,Ryan Kinnaird"
+    },
+    {
+        "name": "安吉拉",
+        "original_name": "Angela",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\安吉拉.png",
+        "series": "series3",
+        "effect": "当你在此区域放置1张卡牌后，战力+2。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "匕首",
+        "original_name": "Dagger",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\匕首.png",
+        "series": "series5",
+        "effect": "当此牌移动至一个区域时，该区域每有1张敌方卡牌，战力+3。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "莫比亚斯",
+        "original_name": "Morbius",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\莫比亚斯.png",
+        "series": "series4",
+        "effect": "持续：本局对战中你每丢弃1张卡牌，战力+2。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "巴基·巴恩斯",
+        "original_name": "BuckyBarnes",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\巴基·巴恩斯.png",
+        "series": "series4",
+        "effect": "被删去时，此卡牌会被替换为冬兵。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "野兽",
+        "original_name": "Beast",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\野兽.png",
+        "series": "series5",
+        "effect": "揭示：将你在此牌所在区域的其他卡牌退回手牌，它们在下回合能量消耗-1。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "卡耐基",
+        "original_name": "Carnage",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\卡耐基.png",
+        "series": "series3",
+        "effect": "揭示：删去你在此区域的其他卡牌，每删去1张，战力+2。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "夜魔侠",
+        "original_name": "Daredevil",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\夜魔侠.png",
+        "series": "series5",
+        "effect": "在第5回合，你在进行操作前可以先观看对手的操作。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "眩光",
+        "original_name": "Dazzler",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\眩光.png",
+        "series": "series5",
+        "effect": "持续：你每有一个已填满的区域，此卡牌战力+2。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "锻造者",
+        "original_name": "Forge",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\锻造者.png",
+        "series": "series3",
+        "effect": "揭示：你放置的下一张卡牌战力+2。",
+        "artist": "Ryan Pasibe,Ryan Kinnaird"
+    },
+    {
+        "name": "咕咕",
+        "original_name": "Goose",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\咕咕.png",
+        "series": "series5",
+        "effect": "持续：双方不可在此区域放置能量消耗为4、5或6的卡牌。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "生化女",
+        "original_name": "Hazmat",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\生化女.png",
+        "series": "series5",
+        "effect": "揭示：使所有其他卡牌战力-1。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "克雷文",
+        "original_name": "Kraven",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\克雷文.png",
+        "series": "series3",
+        "effect": "每当有卡牌移动至本区域，此卡牌战力+2。",
+        "artist": "Ryan Pasibe,Ryan Kinnaird"
+    },
+    {
+        "name": "主体模组",
+        "original_name": "MasterMold",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\主体模组.png",
+        "series": "series5",
+        "effect": "揭示：将2张机械卫兵添加到对手手牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "美杜莎",
+        "original_name": "Medusa",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\美杜莎.png",
+        "series": "series0",
+        "effect": "揭示：若此卡牌在中间区域，战力+3。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "莫卓",
+        "original_name": "Mojo",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\莫卓.png",
+        "series": "series5",
+        "effect": "持续：若双方均将此区域填满，战力+6。",
+        "artist": "Whilce Portacio,Ryan Kinnaird"
+    },
+    {
+        "name": "惊恶先生",
+        "original_name": "MrSinister",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\惊恶先生.png",
+        "series": "series3",
+        "effect": "揭示：在此区域添加1张相同战力的惊恶克隆体。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "奥科耶",
+        "original_name": "Okoye",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\奥科耶.png",
+        "series": "series4",
+        "effect": "揭示：使你卡组中所有卡牌战力+1。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "灵蝶",
+        "original_name": "Psylocke",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\灵蝶.png",
+        "series": "series5",
+        "effect": "揭示：下一回合，能量+1。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "蝎子",
+        "original_name": "Scorpion",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蝎子.png",
+        "series": "series4",
+        "effect": "揭示：使对手所有手牌战力-1。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "影王",
+        "original_name": "ShadowKing",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\影王.png",
+        "series": "series5",
+        "effect": "揭示：使此区域所有卡牌的战力变为初始基础值。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "星爵",
+        "original_name": "Starlord",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\星爵.png",
+        "series": "series0",
+        "effect": "揭示：若对手本回合在此区域放置了卡牌，战力+4。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "收藏家",
+        "original_name": "TheCollector",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\收藏家.png",
+        "series": "series4",
+        "effect": "每当有卡牌从任意位置（你的卡组除外）添加到你的手牌，此卡战力+1。",
+        "artist": "Ivan Shavrin,Ryan Kinnaird"
+    },
+    {
+        "name": "金刚狼",
+        "original_name": "Wolverine",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\金刚狼.png",
+        "series": "series3",
+        "effect": "此牌被丢弃或被删去时，重新将其添加到一个随机区域，并战力+2。",
+        "artist": "Jomaro Kindred,Ryan Kinnaird"
+    },
+    {
+        "name": "扎布",
+        "original_name": "Zabu",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\扎布.png",
+        "series": "series6",
+        "effect": "持续：你所有初始能量消耗为4的卡牌能量消耗-1。（最低为1）",
+        "artist": "Joverine,Jason Kang,Ryan Kinnaird"
+    },
+    {
+        "name": "幻境",
+        "original_name": "Mirage",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\幻境.png",
+        "series": "series7",
+        "effect": "揭示：复制对手手牌中能量消耗最低的卡牌到你的手牌，并使其战力+2。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "铠",
+        "original_name": "Armor",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\铠.png",
+        "series": "series3",
+        "effect": "持续：此区域中的卡牌不能被删去。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "莫度男爵",
+        "original_name": "BaronMordo",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\莫度男爵.png",
+        "series": "series5",
+        "effect": "揭示：使对手卡组最上方卡牌的能量消耗在第6回合前变为6。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "电索",
+        "original_name": "Cable",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\电索.png",
+        "series": "series3",
+        "effect": "揭示：抽取对手卡组中的1张卡牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "钢力士",
+        "original_name": "Colossus",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\钢力士.png",
+        "series": "series2",
+        "effect": "持续：不会被删去、移动，战力也不会减少。",
+        "artist": "Dave Wilkins,Jomaro Kindred,Ryan Kinnaird"
+    },
+    {
+        "name": "奇异博士",
+        "original_name": "DoctorStrange",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\奇异博士.png",
+        "series": "series3",
+        "effect": "揭示：将你所有战力最高的卡牌移动至此区域。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "多米诺",
+        "original_name": "Domino",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\多米诺.png",
+        "series": "series3",
+        "effect": "你只能在第2回合抽到此牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "猎鹰",
+        "original_name": "Falcon",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\猎鹰.png",
+        "series": "series5",
+        "effect": "揭示：使你场上所有初始能量消耗为1的卡牌返回手牌。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "反浩克装甲",
+        "original_name": "Hulkbuster",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\反浩克装甲.png",
+        "series": "series3",
+        "effect": "揭示：将此牌与你在此区域的1张随机友方卡牌融合。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "隐形女侠",
+        "original_name": "InvisibleWoman",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\隐形女侠.png",
+        "series": "series5",
+        "effect": "持续：你在此区域放置的卡牌在对战结束之前不会揭开。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "陆行鲨杰夫宝宝",
+        "original_name": "JeffTheBabyLandShark",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\陆行鲨杰夫宝宝.png",
+        "series": "series7",
+        "effect": "你可以移动此卡牌1次。没什么能阻止你将此牌移动或放置到任意区域。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "金并",
+        "original_name": "Kingpin",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\金并.png",
+        "series": "series5",
+        "effect": "当有敌方卡牌移动到此区域时，使其战力-2。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "分身人",
+        "original_name": "MultipleMan",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\分身人.png",
+        "series": "series3",
+        "effect": "此卡牌移动后，在原区域添加1张它的复制牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "震荡",
+        "original_name": "Quake",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\震荡.png",
+        "series": "series5",
+        "effect": "揭示：另外2个区域交换位置。",
+        "artist": "Jason Kang,Ryan Kinnaird"
+    },
+    {
+        "name": "猩红女巫",
+        "original_name": "ScarletWitch",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\猩红女巫.png",
+        "series": "series3",
+        "effect": "揭示：将此区域替换成一个新区域。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "机械卫兵",
+        "original_name": "Sentinel",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\机械卫兵.png",
+        "series": "series0",
+        "effect": "揭示：将另一张机械卫兵添加到你的手牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "震手",
+        "original_name": "Shocker",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\震手.png",
+        "series": "series0",
+        "effect": "“我要震爆你们！”",
+        "artist": "Eduardo Francisco"
+    },
+    {
+        "name": "群蜂",
+        "original_name": "Swarm",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\群蜂.png",
+        "series": "series4",
+        "effect": "当你丢弃此牌时，将2张它的复制牌添加到手牌，它们的能量消耗为0。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "斗篷",
+        "original_name": "Cloak",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\斗篷.png",
+        "series": "series4",
+        "effect": "揭示：下回合，双方均可将卡牌移动至此区域。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "科琳·温",
+        "original_name": "ColleenWing",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\科琳·温.png",
+        "series": "series5",
+        "effect": "揭示：丢弃你手牌中能量消耗最低的卡牌。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "迷境魔",
+        "original_name": "Mysterio",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\迷境魔.png",
+        "series": "series5",
+        "effect": "当你放置此卡牌时，在其他区域中放置“幻觉”，并将此牌伪装成“幻觉”直至对战结束。",
+        "artist": "Sanford Greene,Ryan Kinnaird"
+    },
+    {
+        "name": "蜥蜴",
+        "original_name": "Lizard",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蜥蜴.png",
+        "series": "series3",
+        "effect": "持续：若对手在此区域有4张卡牌，战力-4。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "蛛丝",
+        "original_name": "Silk",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蛛丝.png",
+        "series": "series7",
+        "effect": "任意卡牌被放置到此区域后，此卡牌会移动到另一区域。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "马克西姆斯",
+        "original_name": "Maximus",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\马克西姆斯.png",
+        "series": "series5",
+        "effect": "揭示：对手抽2张牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "绿魔",
+        "original_name": "GreenGoblin",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\绿魔.png",
+        "series": "series5",
+        "effect": "揭示：此牌换边。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "脑波强化机",
+        "original_name": "Cerebro",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\脑波强化机.png",
+        "series": "series5",
+        "effect": "持续：你所有战力最高的卡牌战力+2。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "钢铁心",
+        "original_name": "Ironheart",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\钢铁心.png",
+        "series": "series1",
+        "effect": "揭示：使你其他2张卡牌战力+3。",
+        "artist": "Marco Failla,Ryan Kinnaird"
+    },
+    {
+        "name": "千面人",
+        "original_name": "Morph",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\千面人.png",
+        "series": "series3",
+        "effect": "揭示：变为对手手牌中1张卡牌的复制牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "魔形女",
+        "original_name": "Mystique",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\魔形女.png",
+        "series": "series5",
+        "effect": "揭示：若你放置的上张卡牌有持续效果，复制其卡面文字。（若该卡牌在场上已揭示）",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "毕肖普",
+        "original_name": "Bishop",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\毕肖普.png",
+        "series": "series3",
+        "effect": "你放置1张卡牌后，此卡牌战力+1。",
+        "artist": "Sanford Greene,Ryan Kinnaird"
+    },
+    {
+        "name": "爱国者",
+        "original_name": "Patriot",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\爱国者.png",
+        "series": "series5",
+        "effect": "持续：你的没有特殊效果的卡牌战力+2。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "狼毒",
+        "original_name": "Wolfsbane",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\狼毒.png",
+        "series": "series2",
+        "effect": "揭示：你在此区域每有1张其他卡牌，战力+2。",
+        "artist": "Ario Anindito,Ryan Kinnaird"
+    },
+    {
+        "name": "布鲁德虫族",
+        "original_name": "Brood",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\布鲁德虫族.png",
+        "series": "series5",
+        "effect": "揭示：在此区域添加2张战力与之相同的布鲁德虫。",
+        "artist": "Ryan Kinnaird"
+    },
+    {
+        "name": "美国队长",
+        "original_name": "CaptainAmerica",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\美国队长.png",
+        "series": "series1",
+        "effect": "持续：你在此区域的其他持续卡牌战力+2。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "电王",
+        "original_name": "Electro",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\电王.png",
+        "series": "series5",
+        "effect": "揭示：最大能量+1。持续：你每回合只能放置1张卡牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "杀手猴",
+        "original_name": "HitMonkey",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\杀手猴.png",
+        "series": "series6",
+        "effect": "揭示：此回合你每放置1张其他卡牌，战力+2。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "魔剑客",
+        "original_name": "Magik",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\魔剑客.png",
+        "series": "series5",
+        "effect": "揭示：将此区域替换为“地狱边境”。\n此效果在第5回合后无效。",
+        "artist": "Ario Anindito,Ryan Kinnaird"
+    },
+    {
+        "name": "神奇先生",
+        "original_name": "MrFantastic",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\神奇先生.png",
+        "series": "series2",
+        "effect": "持续：相邻区域战力+2。",
+        "artist": "David Nakayama,Ryan Kinnaird"
+    },
+    {
+        "name": "青少女弹头",
+        "original_name": "NegasonicTeenageWarhead",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\青少女弹头.png",
+        "series": "series5",
+        "effect": "在1张敌方卡牌被放置到此区域后，删去那张卡牌。（每局限1次）",
+        "artist": "Ario Anindito,Ryan Kinnaird"
+    },
+    {
+        "name": "小淘气",
+        "original_name": "Rogue",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\小淘气.png",
+        "series": "series5",
+        "effect": "揭示：偷取此区域随机1张敌方持续卡牌的效果文字。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "山娜",
+        "original_name": "Shanna",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\山娜.png",
+        "series": "series5",
+        "effect": "揭示：随机将1张初始能量消耗为1的卡牌添加到每个区域。",
+        "artist": "Ryan Kinnaird"
+    },
+    {
+        "name": "银河冲浪者",
+        "original_name": "SilverSurfer",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\银河冲浪者.png",
+        "series": "series5",
+        "effect": "揭示：你其他初始能量消耗为3的卡牌战力+2。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "暴风女",
+        "original_name": "Storm",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\暴风女.png",
+        "series": "series4",
+        "effect": "揭示：冲毁此区域。下回合过后，双方不可在此区域放置卡牌。",
+        "artist": "David Nakayama,Ryan Kinnaird"
+    },
+    {
+        "name": "黑寡妇",
+        "original_name": "BlackWidow",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑寡妇.png",
+        "series": "series5",
+        "effect": "揭示：将1张寡妇蜇添加到对手手牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "科思默",
+        "original_name": "Cosmo",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\科思默.png",
+        "series": "series3",
+        "effect": "持续：此区域揭示效果不会触发。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "水晶",
+        "original_name": "Crystal",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\水晶.png",
+        "series": "series5",
+        "effect": "揭示：双方各抽1张牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "黛波丽",
+        "original_name": "Debrii",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黛波丽.png",
+        "series": "series5",
+        "effect": "揭示：为双方在其他区域中各添加1张石块。",
+        "artist": "Juancarlos Henriquez"
+    },
+    {
+        "name": "牌皇",
+        "original_name": "Gambit",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\牌皇.png",
+        "series": "series5",
+        "effect": "揭示：丢弃1张手牌，删去1张敌方卡牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "格鲁特",
+        "original_name": "Groot",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\格鲁特.png",
+        "series": "series2",
+        "effect": "揭示：若对手本回合在此区域放置了卡牌，战力+4。",
+        "artist": "Tom Raney,Ryan Kinnaird"
+    },
+    {
+        "name": "红坦克",
+        "original_name": "Juggernaut",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\红坦克.png",
+        "series": "series5",
+        "effect": "揭示：若对手本回合在此区域放置了卡牌，则将它们移动到随机区域。（包括未揭示的卡牌）",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "齐尔蒙格",
+        "original_name": "Killmonger",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\齐尔蒙格.png",
+        "series": "series4",
+        "effect": "揭示：删去所有初始能量消耗为1的卡牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "卢克·凯奇",
+        "original_name": "LukeCage",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\卢克·凯奇.png",
+        "series": "series5",
+        "effect": "持续：你的卡牌无法被降低战力。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "月光骑士",
+        "original_name": "MoonKnight",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\月光骑士.png",
+        "series": "series5",
+        "effect": "揭示：双方各丢弃1张手牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "娜吉雅",
+        "original_name": "Nakia",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\娜吉雅.png",
+        "series": "series4",
+        "effect": "揭示：使你所有手牌战力+1。",
+        "artist": "Sanford Greene,Ryan Kinnaird"
+    },
+    {
+        "name": "惩罚者",
+        "original_name": "Punisher",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\惩罚者.png",
+        "series": "series0",
+        "effect": "持续：在此区域每有1张敌方卡牌，战力+1。",
+        "artist": "Whilce Portacio,Ryan Kinnaird"
+    },
+    {
+        "name": "犀牛人",
+        "original_name": "Rhino",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\犀牛人.png",
+        "series": "series4",
+        "effect": "揭示：将此区域变为废墟。（移除区域特殊效果）",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "岩崩",
+        "original_name": "Rockslide",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\岩崩.png",
+        "series": "series5",
+        "effect": "揭示：将2张石块洗入对手卡组。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "翼龙人",
+        "original_name": "Sauron",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\翼龙人.png",
+        "series": "series5",
+        "effect": "揭示：移除你手牌和卡组中所有持续卡牌的特殊效果。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "壮汉",
+        "original_name": "StrongGuy",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\壮汉.png",
+        "series": "series3",
+        "effect": "持续：若你的手牌数量小于或等于6，此牌战力+1。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "毒液",
+        "original_name": "Venom",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\毒液.png",
+        "series": "series5",
+        "effect": "揭示：删去此区域中你的其他卡牌，此牌获得被删去卡牌的全部战力。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "秃鹫",
+        "original_name": "Vulture",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\秃鹫.png",
+        "series": "series4",
+        "effect": "此卡牌移动时，战力+6。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "科尔森探员",
+        "original_name": "AgentCoulson",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\科尔森探员.png",
+        "series": "series5",
+        "effect": "揭示：随机将初始能量消耗为4和5的卡牌各1张添加到手牌。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "雷光眼",
+        "original_name": "Cyclops",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\雷光眼.png",
+        "series": "series0",
+        "effect": "“X战警，出发。”",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "索尔",
+        "original_name": "Thor",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\索尔.png",
+        "series": "series5",
+        "effect": "揭示：将雷神之锤洗进你的卡组。",
+        "artist": "Joverine,Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "琴·格雷",
+        "original_name": "JeanGrey",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\琴·格雷.png",
+        "series": "series7",
+        "effect": "持续：若可能，双方玩家每回合必须在此区域放置第1张卡牌。",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "死亡战士",
+        "original_name": "Deathlok",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\死亡战士.png",
+        "series": "series3",
+        "effect": "揭示：删去你在此区域的其他卡牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "幽灵",
+        "original_name": "Ghost",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\幽灵.png",
+        "series": "series5",
+        "effect": "持续：你的卡牌始终会后手揭示。（卡牌的揭示效果会在对手之后触发。）",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "希芙女士",
+        "original_name": "LadySif",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\希芙女士.png",
+        "series": "series3",
+        "effect": "揭示：丢弃你手牌中能量消耗最高的卡牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "北极星",
+        "original_name": "Polaris",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\北极星.png",
+        "series": "series5",
+        "effect": "揭示：将1张敌方初始能量消耗为1或2的卡牌移动至此区域。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "剑齿虎",
+        "original_name": "Sabretooth",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\剑齿虎.png",
+        "series": "series4",
+        "effect": "此卡牌被删去时会返回到你的手牌，能量消耗变为0。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "蜘蛛侠",
+        "original_name": "SpiderMan",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蜘蛛侠.png",
+        "series": "series5",
+        "effect": "揭示：移动至另一区域，并将此区域中的1张敌方卡牌也移至该区域。",
+        "artist": "Tim Tsang,Ryan Kinnaird"
+    },
+    {
+        "name": "蝰蛇",
+        "original_name": "Viper",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蝰蛇.png",
+        "series": "series5",
+        "effect": "揭示：你在此区域的另一张卡牌换边。",
+        "artist": "Ibraim Roberson,Ryan Kinnaird"
+    },
+    {
+        "name": "浪",
+        "original_name": "Wave",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\浪.png",
+        "series": "series5",
+        "effect": "揭示：下回合结束前，所有卡牌的最大能量消耗均为4。",
+        "artist": "Ivan Shavrin,Ryan Kinnaird"
+    },
+    {
+        "name": "剑仙",
+        "original_name": "SwordMaster",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\剑仙.png",
+        "series": "series3",
+        "effect": "揭示：丢弃1张手牌。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "黑白先生",
+        "original_name": "MrNegative",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑白先生.png",
+        "series": "series5",
+        "effect": "揭示：将卡组中所有卡牌的能量消耗与战力互换。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "德古拉",
+        "original_name": "Dracula",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\德古拉.png",
+        "series": "series5",
+        "effect": "对战结束时，从你的手牌中丢弃1张卡牌，此牌获得其战力。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "百光花火",
+        "original_name": "Jubilee",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\百光花火.png",
+        "series": "series4",
+        "effect": "揭示：将你卡组中最上方的卡牌添加至此区域。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "苏睿",
+        "original_name": "Shuri",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\苏睿.png",
+        "series": "series5",
+        "effect": "揭示：若你的下一张卡牌放置在此区域，使其战力翻倍。",
+        "artist": "Sanford Greene,Ryan Kinnaird"
+    },
+    {
+        "name": "超级斯克鲁人",
+        "original_name": "SuperSkrull",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\超级斯克鲁人.png",
+        "series": "series5",
+        "effect": "持续：拥有所有敌方卡牌的持续效果。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "王",
+        "original_name": "Wong",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\王.png",
+        "series": "series5",
+        "effect": "持续：此区域中你的卡牌揭示效果触发2次。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "恶灵骑士",
+        "original_name": "GhostRider",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\恶灵骑士.png",
+        "series": "series5",
+        "effect": "揭示：将你丢弃的1张卡牌放回此区域。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "尚气",
+        "original_name": "ShangChi",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\尚气.png",
+        "series": "series4",
+        "effect": "揭示：删去在此区域中所有战力大于或等于10的敌方卡牌。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "吸收人",
+        "original_name": "AbsorbingMan",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\吸收人.png",
+        "series": "series5",
+        "effect": "揭示：若你放置的上张卡牌有揭示效果，复制其卡面文字。（若该卡牌在场上已揭示）",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "至高进化",
+        "original_name": "HighEvolutionary",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\至高进化.png",
+        "series": "series7",
+        "effect": "对战开始时，解锁你无特殊效果的卡牌的潜力。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "卡-扎尔",
+        "original_name": "KaZar",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\卡-扎尔.png",
+        "series": "series2",
+        "effect": "持续：你所有的初始能量消耗为1的卡牌战力+1。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "月亮女孩",
+        "original_name": "MoonGirl",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\月亮女孩.png",
+        "series": "series3",
+        "effect": "揭示：复制你的手牌。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "救援",
+        "original_name": "Rescue",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\救援.png",
+        "series": "series5",
+        "effect": "揭示：若你下回合在此区域放置了卡牌，战力+5。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "惊奇队长",
+        "original_name": "CaptainMarvel",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\惊奇队长.png",
+        "series": "series5",
+        "effect": "此牌会在本局对战结束时移动到能为你赢下对战的区域（若能赢的话）。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "德拉克斯",
+        "original_name": "Drax",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\德拉克斯.png",
+        "series": "series5",
+        "effect": "揭示：若对手本回合在此区域放置了卡牌，战力+4。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "女巫师",
+        "original_name": "Enchantress",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\女巫师.png",
+        "series": "series3",
+        "effect": "揭示：移除此区域内所有持续卡牌的特殊效果。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "杰西卡·琼斯",
+        "original_name": "JessicaJones",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\杰西卡·琼斯.png",
+        "series": "series1",
+        "effect": "揭示：若你下回合未在此区域放置卡牌，战力+4。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "锁齿",
+        "original_name": "Lockjaw",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\锁齿.png",
+        "series": "series5",
+        "effect": "你在此区域放置1张卡牌后，会将其替换为你卡组中的1张卡牌。（每回合一次）",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "迈尔斯‧墨拉莱斯",
+        "original_name": "MilesMorales",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\迈尔斯‧墨拉莱斯.png",
+        "series": "series5",
+        "effect": "若上个回合有卡牌移动过，此卡牌的能量消耗变为1。",
+        "artist": "Marco Failla,Ryan Kinnaird"
+    },
+    {
+        "name": "尼克·弗瑞",
+        "original_name": "NickFury",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\尼克·弗瑞.png",
+        "series": "series5",
+        "effect": "揭示：随机将3张初始能量消耗为6的卡牌添加到手牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "红色欧米伽",
+        "original_name": "OmegaRed",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\红色欧米伽.png",
+        "series": "series5",
+        "effect": "持续：若你在此区域领先，使其他各区域战力+3。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "征途",
+        "original_name": "Warpath",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\征途.png",
+        "series": "series4",
+        "effect": "持续：若你有空置区域，战力+5。",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "凤凰之力",
+        "original_name": "ThePhoenixForce",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\凤凰之力.png",
+        "series": "series7",
+        "effect": "揭示：重置1张你被删去的卡牌，并与其融合。该卡牌每回合都可以移动。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "钢铁小子",
+        "original_name": "IronLad",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\钢铁小子.png",
+        "series": "series7",
+        "effect": "揭示：复制你卡组中最上方卡牌的卡面文字。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "纳摩",
+        "original_name": "Namor",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\纳摩.png",
+        "series": "series3",
+        "effect": "持续：若此卡牌是你在此区域中的唯一卡牌，战力+5。",
+        "artist": "Whilce Portacio,Ryan Kinnaird"
+    },
+    {
+        "name": "史泰贡",
+        "original_name": "Stegron",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\史泰贡.png",
+        "series": "series5",
+        "effect": "揭示：将此区域中的1张敌方卡牌移至其他区域。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "石头人",
+        "original_name": "TheThing",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\石头人.png",
+        "series": "series0",
+        "effect": "“痛扁时间到！”",
+        "artist": "David Nakayama,Ryan Kinnaird"
+    },
+    {
+        "name": "白皇后",
+        "original_name": "WhiteQueen",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\白皇后.png",
+        "series": "series3",
+        "effect": "揭示：复制对手手牌中能量消耗最高的卡牌到你的手牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "魔牛",
+        "original_name": "Hellcow",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\魔牛.png",
+        "series": "series5",
+        "effect": "揭示：丢弃2张手牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "神护卫",
+        "original_name": "Sentry",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\神护卫.png",
+        "series": "series5",
+        "effect": "此卡牌无法放置在右侧区域。\n揭示：向右侧区域添加1张战力为-8的虚无。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "黑猫",
+        "original_name": "BlackCat",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑猫.png",
+        "series": "series5",
+        "effect": "回合结束后，若此牌仍在你的手牌中，则丢弃它。",
+        "artist": "Philip Tan,Ryan Kinnaird"
+    },
+    {
+        "name": "阿图玛",
+        "original_name": "Attuma",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\阿图玛.png",
+        "series": "series5",
+        "effect": "每回合结束后，删去此区域1张战力小于此牌的友方卡牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "交叉骨",
+        "original_name": "Crossbones",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\交叉骨.png",
+        "series": "series5",
+        "effect": "仅可在领先区域放置此卡牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "伤寒玛丽",
+        "original_name": "TyphoidMary",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\伤寒玛丽.png",
+        "series": "series5",
+        "effect": "持续：你的其他卡牌战力-1。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "恶鬼",
+        "original_name": "Hobgoblin",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\恶鬼.png",
+        "series": "series4",
+        "effect": "揭示：此牌换边。",
+        "artist": "Jonboy Meyers"
+    },
+    {
+        "name": "钢铁侠",
+        "original_name": "IronMan",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\钢铁侠.png",
+        "series": "series0",
+        "effect": "持续：你在此区域的总战力翻倍。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "康",
+        "original_name": "Kang",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\康.png",
+        "series": "series7",
+        "effect": "揭示：检视对手的操作，然后重新开始此回合（此牌会消失）。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "模仿大师",
+        "original_name": "Taskmaster",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\模仿大师.png",
+        "series": "series5",
+        "effect": "揭示：将此卡牌的战力设置为与你放置的上张卡牌的战力相等。（若该卡牌在场上已揭示）",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "白虎",
+        "original_name": "WhiteTiger",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\白虎.png",
+        "series": "series2",
+        "effect": "揭示：在另一区域中添加1张战力为8的灵虎。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "蓝惊奇",
+        "original_name": "BlueMarvel",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蓝惊奇.png",
+        "series": "series1",
+        "effect": "持续：你所有的其他卡牌战力+1。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "黑鹰",
+        "original_name": "Darkhawk",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑鹰.png",
+        "series": "series6",
+        "effect": "持续：对手卡组中每有1张卡牌，战力+2。",
+        "artist": "Jason Kang,Ryan Kinnaird"
+    },
+    {
+        "name": "恶魔恐龙",
+        "original_name": "DevilDinosaur",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\恶魔恐龙.png",
+        "series": "series3",
+        "effect": "持续：你每有1张手牌，战力+2。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "X教授",
+        "original_name": "ProfessorX",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\X教授.png",
+        "series": "series3",
+        "effect": "持续：锁定此区域。（不可在此区域添加、移除卡牌等。）",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "瓦尔基里",
+        "original_name": "Valkyrie",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\瓦尔基里.png",
+        "series": "series5",
+        "effect": "揭示：将此区域中所有卡牌的战力都变为3。",
+        "artist": "Virgilio D'Ambrosio,Ryan Kinnaird"
+    },
+    {
+        "name": "黑豹",
+        "original_name": "BlackPanther",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑豹.png",
+        "series": "series5",
+        "effect": "揭示：此卡牌战力翻倍。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "克劳",
+        "original_name": "Klaw",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\克劳.png",
+        "series": "series3",
+        "effect": "持续：所在区域右侧区域战力+6。",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "塞拉",
+        "original_name": "Sera",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\塞拉.png",
+        "series": "series5",
+        "effect": "持续：你所有手牌能量消耗-1。（最低为1）。",
+        "artist": "Ario Anindito,Ryan Kinnaird"
+    },
+    {
+        "name": "宇宙术士亚当",
+        "original_name": "AdamWarlock",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\宇宙术士亚当.png",
+        "series": "series5",
+        "effect": "每回合结束后，若你在此区域领先，抽1张牌。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "抑制者",
+        "original_name": "Leech",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\抑制者.png",
+        "series": "series4",
+        "effect": "揭示：移除对手手牌中所有拥有揭示效果的卡牌的卡面文字。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "指控者·罗南",
+        "original_name": "Ronan",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\指控者·罗南.png",
+        "series": "series5",
+        "effect": "持续：对手每有1张手牌，战力+2。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "宁录",
+        "original_name": "Nimrod",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\宁录.png",
+        "series": "series6",
+        "effect": "被删去时，在其他区域中各添加1张此卡牌的复制牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "黑霹雷",
+        "original_name": "BlackBolt",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\黑霹雷.png",
+        "series": "series5",
+        "effect": "揭示：丢弃对手手牌中能量消耗最低的1张卡牌。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "沙魔",
+        "original_name": "Sandman",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\沙魔.png",
+        "series": "series4",
+        "effect": "揭示：双方下回合只可放置1张卡牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "易身",
+        "original_name": "Stature",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\易身.png",
+        "series": "series5",
+        "effect": "若对手在本局对战中丢弃过卡牌，此牌的能量消耗变为1。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "大群",
+        "original_name": "Legion",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\大群.png",
+        "series": "series6",
+        "effect": "揭示：将所有其它区域替换为此区域。",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "卡魔拉",
+        "original_name": "Gamora",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\卡魔拉.png",
+        "series": "series2",
+        "effect": "揭示：若对手本回合在此区域放置了卡牌，战力+4。",
+        "artist": "Jonboy Meyers,Ryan Kinnaird"
+    },
+    {
+        "name": "魔多客",
+        "original_name": "Modok",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\魔多客.png",
+        "series": "series6",
+        "effect": "揭示：丢弃你的手牌。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "蜘蛛女",
+        "original_name": "SpiderWoman",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蜘蛛女.png",
+        "series": "series2",
+        "effect": "揭示：使此区域所有敌方卡牌战力-1。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "幻视",
+        "original_name": "Vision",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\幻视.png",
+        "series": "series4",
+        "effect": "你每个回合均可移动此牌。",
+        "artist": "Ryan Kinnaird"
+    },
+    {
+        "name": "恶型怪",
+        "original_name": "Abomination",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\恶型怪.png",
+        "series": "series0",
+        "effect": "“愚蠢的杂碎！屈服于我！”",
+        "artist": "Devoted"
+    },
+    {
+        "name": "气旋",
+        "original_name": "Aero",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\气旋.png",
+        "series": "series5",
+        "effect": "揭示：将放置的上一张敌方卡牌，从任一区域移动至此区域。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "简·福斯特：神威索尔",
+        "original_name": "JaneFoster",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\简·福斯特：神威索尔.png",
+        "series": "series5",
+        "effect": "揭示：从你的卡组中抽取所有能量消耗为0的卡牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "蜘蛛侠2099",
+        "original_name": "SpiderMan2099",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\蜘蛛侠2099.png",
+        "series": "series6",
+        "effect": "这张卡牌首次移动至一个区域时，删去对手在此区域的1张卡牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "章鱼博士",
+        "original_name": "DoctorOctopus",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\章鱼博士.png",
+        "series": "series5",
+        "effect": "揭示：从对手手牌中随机抽取4张卡牌添加到对手此区域。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "红骷髅",
+        "original_name": "RedSkull",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\红骷髅.png",
+        "series": "series5",
+        "effect": "持续：此区域的敌方卡牌战力+2。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "阿尼姆·佐拉",
+        "original_name": "ArnimZola",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\阿尼姆·佐拉.png",
+        "series": "series5",
+        "effect": "揭示：删去此区域中1张友方卡牌，然后在其他各区域添加1张它的复制牌。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "纳尔",
+        "original_name": "Knull",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\纳尔.png",
+        "series": "series6",
+        "effect": "持续：此牌战力为本局对战中所有被删去卡牌的战力之和。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "首领",
+        "original_name": "Leader",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\首领.png",
+        "series": "series5",
+        "effect": "揭示：复制对手在此回合放置的战力最高的牌，并添加至你对应的区域。",
+        "artist": "Ivan Shavrin,Ryan Kinnaird"
+    },
+    {
+        "name": "毁灭博士",
+        "original_name": "DrDoom",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\毁灭博士.png",
+        "series": "series5",
+        "effect": "揭示：在其他区域中各添加1张战力为5的毁灭机器人。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "吞星",
+        "original_name": "Galactus",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\吞星.png",
+        "series": "series7",
+        "effect": "揭示：若你在此区域领先，且此牌是你在此区域中的唯一卡牌，摧毁其他区域。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "天启",
+        "original_name": "Apocalypse",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\天启.png",
+        "series": "series2",
+        "effect": "当你丢弃此牌时，此牌战力+4并回到手牌中。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "海拉",
+        "original_name": "Hela",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\海拉.png",
+        "series": "series5",
+        "effect": "揭示：将所有丢弃的卡牌重生至随机区域。",
+        "artist": "Combo Break,Ryan Kinnaird"
+    },
+    {
+        "name": "光谱",
+        "original_name": "Spectrum",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\光谱.png",
+        "series": "series2",
+        "effect": "揭示：你所有的持续卡牌战力+2。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "狂攻",
+        "original_name": "Onslaught",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\狂攻.png",
+        "series": "series2",
+        "effect": "持续：此区域中你的其他持续效果翻倍。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "奥丁",
+        "original_name": "Odin",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\奥丁.png",
+        "series": "series2",
+        "effect": "揭示：触发此区域你其他卡牌的揭示效果。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "奥创",
+        "original_name": "Ultron",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\奥创.png",
+        "series": "series5",
+        "effect": "揭示：在其他区域中各放置4张战力为2的奥创复制体。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "海姆达尔",
+        "original_name": "Heimdall",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\海姆达尔.png",
+        "series": "series2",
+        "effect": "揭示：将你的其他卡牌向左移动一个区域。",
+        "artist": "Roberto Di Salvo,Ryan Kinnaird"
+    },
+    {
+        "name": "生命法庭",
+        "original_name": "LivingTribunal",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\生命法庭.png",
+        "series": "series7",
+        "effect": "持续：将我方的总战力平分给所有区域。",
+        "artist": "Ivan Shavrin,Ryan Kinnaird"
+    },
+    {
+        "name": "天空母舰",
+        "original_name": "Helicarrier",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\天空母舰.png",
+        "series": "series5",
+        "effect": "丢弃此牌后，用随机卡牌填满你的手牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "女浩克",
+        "original_name": "SheHulk",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\女浩克.png",
+        "series": "series5",
+        "effect": "上回合每有一点未消耗的能量，该牌能量消耗-1。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "灭霸",
+        "original_name": "Thanos",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\灭霸.png",
+        "series": "series7",
+        "effect": "此牌会出现在你的起始手牌中，并将六张无限宝石洗进你的卡组。",
+        "artist": "Eduard Petrovich,Ryan Kinnaird"
+    },
+    {
+        "name": "欧卡",
+        "original_name": "Orka",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\欧卡.png",
+        "series": "series5",
+        "effect": "持续：若此卡牌是你在此区域中的唯一卡牌，战力+5。",
+        "artist": "Eric Guerrero,Ryan Kinnaird"
+    },
+    {
+        "name": "浩克",
+        "original_name": "Hulk",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\浩克.png",
+        "series": "series0",
+        "effect": "“浩克猛砸！”",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "万磁王",
+        "original_name": "Magneto",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\万磁王.png",
+        "series": "series5",
+        "effect": "揭示：将对手所有初始能量消耗为3和4的卡牌移动至此区域。",
+        "artist": "Ryan Benjamin,Ryan Kinnaird"
+    },
+    {
+        "name": "阿加莎·哈克尼斯",
+        "original_name": "AgathaHarkness",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\阿加莎·哈克尼斯.png",
+        "series": "series5",
+        "effect": "阿加莎会出现在你的起始手牌中，并帮你出牌。",
+        "artist": "Simone Buonfantino,Ryan Kinnaird"
+    },
+    {
+        "name": "巨鲸兽",
+        "original_name": "Giganto",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\巨鲸兽.png",
+        "series": "series5",
+        "effect": "你只能将此卡牌放置在左侧区域。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "毁灭者",
+        "original_name": "Destroyer",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\毁灭者.png",
+        "series": "series5",
+        "effect": "揭示：删去你的其他卡牌。",
+        "artist": "Joverine,Ryan Kinnaird"
+    },
+    {
+        "name": "次元行者",
+        "original_name": "Infinaut",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\次元行者.png",
+        "series": "series4",
+        "effect": "若你在上个回合中放置了卡牌，则无法放置此卡牌。",
+        "artist": "Ario Anindito,Ryan Kinnaird"
+    },
+    {
+        "name": "死亡女神",
+        "original_name": "Death",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\死亡女神.png",
+        "series": "series5",
+        "effect": "本局对战中每有1张卡牌被删去，能量消耗-1。",
+        "artist": "Diogo Saito,Ryan Kinnaird"
+    },
+    {
+        "name": "X23",
+        "original_name": "X23",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\X23.png",
+        "series": "series7",
+        "effect": "此卡牌被丢弃或删去时，重新将其添加至一个随机区域，并在下一回合你的能量+1。",
+        "artist": ""
+    },
+    {
+        "name": "拉芙娜·洛斯蕾尔",
+        "original_name": "RavonnaRenslayer",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\拉芙娜·洛斯蕾尔.png",
+        "series": "series6",
+        "effect": "持续：你战力不高于1的卡牌能量消耗-1。（最低为1）",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "莫比乌斯·M·莫比乌斯",
+        "original_name": "MobiusMMobius",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\莫比乌斯·M·莫比乌斯.png",
+        "series": "series6",
+        "effect": "持续：你的能量消耗不会增加。对手的能量消耗不可减少。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "洛基",
+        "original_name": "Loki",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\洛基.png",
+        "series": "series7",
+        "effect": "揭示：将你的手牌变为对手起始卡组中的卡牌，并使这些卡牌能量消耗-1。",
+        "artist": "Ryan Benjamin,Ryan Benjamin"
+    },
+    {
+        "name": "银色武士",
+        "original_name": "SilverSamurai",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\银色武士.png",
+        "series": "series7",
+        "effect": "揭示：每位玩家各丢弃手牌中1张战力最低的卡牌。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    },
+    {
+        "name": "艾利奥斯",
+        "original_name": "Alioth",
+        "image": "E:\\Dep\\漫威终极逆转\\卡面\\艾利奥斯.png",
+        "series": "series7",
+        "effect": "揭示：移除此区域所有未揭示敌方卡牌的卡面文字。",
+        "artist": "Eduardo Mello,Ryan Kinnaird"
+    }
+]

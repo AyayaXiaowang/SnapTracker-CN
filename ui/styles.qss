@@ -1,0 +1,341 @@
+/* 控制中心整体样式 */
+QMainWindow {
+    background-color: #2b2b2b;
+}
+
+/* 工具栏样式 */
+#toolbar {
+    background-color: #333333;
+    border-bottom: 1px solid #404040;
+}
+
+/* 标签样式 */
+#controlLabel {
+    color: #e0e0e0;
+    font-size: 12px;
+}
+
+/* 下拉框样式 */
+#deckSelector {
+    background-color: #404040;
+    color: #e0e0e0;
+    border: 1px solid #505050;
+    border-radius: 3px;
+    padding: 4px;
+    min-height: 24px;
+}
+
+#deckSelector:hover {
+    background-color: #454545;
+    border-color: #606060;
+}
+
+/* 添加禁用状态的样式 */
+#deckSelector:disabled {
+    background-color: #303030;
+    color: #808080;
+    border-color: #404040;
+}
+
+#deckSelector::drop-down:disabled {
+    border-color: #404040;
+}
+
+
+/* 图片容器样式 */
+#image-container {
+    padding: -1px;
+    margin: -1px;
+
+}
+
+/* 图片标签样式 */
+#image-label {
+    padding: -1px;
+    margin: -1px;
+    border: none;
+
+}
+
+#deckSelector::down-arrow:disabled {
+    image: none;  /* 可选：隐藏下拉箭头 */
+}
+
+/* 数字输入框样式 */
+#updateInterval {
+    background-color: #404040;
+    color: #e0e0e0;
+    border: 1px solid #505050;
+    border-radius: 3px;
+    padding: 4px;
+    min-height: 24px;
+    min-width: 80px;
+}
+
+#updateInterval:hover {
+    background-color: #454545;
+    border-color: #606060;
+}
+
+/* 按钮通用样式 */
+QPushButton {
+    background-color: #404040;
+    color: #e0e0e0;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 12px;
+    min-width: 80px;
+    min-height: 24px;
+}
+
+
+
+QPushButton:hover {
+    background-color: #505050;
+}
+
+QPushButton:pressed {
+    background-color: #353535;
+}
+
+/* 监控按钮特殊样式 */
+#monitorButton {
+    background-color: #2b5797;
+}
+
+#monitorButton:hover {
+    background-color: #366bb3;
+}
+
+#monitorButton:pressed {
+    background-color: #244c82;
+}
+
+/* 刷新按钮样式 */
+#updateButton {
+    background-color: #007acc;
+}
+
+#updateButton:hover {
+    background-color: #0088e2;
+}
+
+#updateButton:pressed {
+    background-color: #006bb3;
+}
+
+/* 窗口按钮样式 */
+#windowButton {
+    background-color: #525252;
+}
+
+#windowButton:hover {
+    background-color: #626262;
+}
+
+#windowButton:pressed {
+    background-color: #424242;
+}
+
+/* 控件组样式 */
+#leftControls, #middleControls, #rightControls {
+    background-color: transparent;
+}
+
+/* 锁定按钮样式 */
+BaseWindow > QPushButton {
+    background-color: rgba(40, 40, 40, 150);
+    color: white;
+    border: none;
+    border-radius: 12px;  /* 完全圆形 */
+    padding: 0px;
+    width: 24px;
+    height: 24px;
+    font-size: 14px;
+    margin: 5px;
+}
+
+BaseWindow > QPushButton:hover {
+    background-color: rgba(60, 60, 60, 200);
+}
+
+BaseWindow > QPushButton:checked {
+    background-color: rgba(80, 80, 80, 200);
+}
+
+/* 卡片文字样式 */
+QLabel {
+    color: white;
+    font-size: 12px;
+}
+
+/* 未知卡牌样式 */
+.unknown-card {
+    color: #808080;  /* 灰色 */
+}
+
+/* 卡片容器样式 */
+#cardsContainer, #mainContainer {
+    background-color: rgba(40, 40, 40, 200);
+    border: 1px solid rgba(60, 60, 60, 200);
+    padding: 1px;
+    margin: 0px;
+}
+
+/* 卡组容器样式 */
+#deckWidget {
+    background-color: transparent;
+    padding: 0px;
+    margin: 0px;
+    spacing: 1px;  /* 添加这行 */
+}
+
+.card-frame {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+
+/* 在 styles.qss 中添加 */
+QCheckBox {
+    color: #FFFFFF;  /* 或者和其他控件相同的颜色 */
+}
+
+QCheckBox::indicator {
+    width: 16px;
+    height: 16px;
+}
+
+QCheckBox::indicator:unchecked {
+    border: 1px solid #555555;
+    background-color: #2D2D2D;
+}
+
+QCheckBox::indicator:checked {
+    border: 1px solid #555555;
+    background-color: #4A90E2;
+}
+
+#controlButton {
+    min-width: 80px;
+    padding: 5px 10px;
+}
+
+#controlButton:checked {
+    background-color: #4A90E2;
+    border: 1px solid #357ABD;
+}
+
+#mainFrame {
+    background-color: #2b2b2b;
+    border: 1px solid rgb(60, 60, 60);
+    border-radius: 4px;
+    padding: 1px;
+    margin-bottom: 0px;  /* 移除底部边距 */
+}
+
+#watermark {
+    color: #555555;
+    font-size: 11px;
+    padding: 0px 5px 2px 0px;
+    margin: 0px;
+    text-decoration: none;  /* 默认不显示下划线 */
+}
+
+#watermark:hover {
+    color: #00A1D6;  /* B站蓝色 */
+    text-decoration: underline;  /* 悬停时显示下划线 */
+}
+#versionLabel {
+    color: #666666;
+    font-size: 12px;
+    padding: 2px 5px;
+}
+
+
+
+#bottomBar {
+    background-color: rgba(30, 30, 30, 0.95);
+    border: 1px solid rgba(60, 60, 60, 0.8);
+    border-top: none;
+    margin: 0px;
+    padding: 3px 4px;  /* 上下3px，左右4px */
+    gap: 4px;  /* 使用gap替代margin来设置按钮间距 */
+}
+
+/* 统一所有按钮的基础样式 */
+#lockButton, #layoutButton, #opacityButton, #closeButton {
+    background-color: transparent;
+    color: #e0e0e0;
+    border: 1px solid rgba(80, 80, 80, 0.5);
+    border-radius: 2px;
+    height: 24px;
+    min-height: 24px;
+    max-height: 24px;
+    font-size: 12px;
+    padding: 0px 8px;
+    margin: 0;
+}
+
+/* 统一标签样式 */
+#opacityLabel {
+    color: #e0e0e0;
+    font-size: 12px;
+    height: 24px;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 0;
+    margin: 0;
+
+    min-width: 24px;
+}
+
+/* 特定按钮的宽度调整 */
+#lockButton {
+    min-width: 24px;
+}
+
+#layoutButton {
+    min-width: 24px;
+}
+
+#opacityButton {
+    min-width: 12px;
+    padding: 0px 6px;
+}
+
+#closeButton {
+    min-width: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0px 6px;
+}
+
+/* 悬停效果 */
+#lockButton:hover, #layoutButton:hover, #opacityButton:hover {
+    background-color: rgba(80, 80, 80, 0.3);
+    border-color: rgba(100, 100, 100, 0.8);
+}
+
+#closeButton:hover {
+    background-color: rgba(232, 17, 35, 0.8);
+    border-color: rgba(232, 17, 35, 0.8);
+    color: white;
+}
+
+/* 按下效果 */
+#lockButton:pressed, #layoutButton:pressed, #opacityButton:pressed {
+    background-color: rgba(60, 60, 60, 0.5);
+}
+
+#closeButton:pressed {
+    background-color: rgba(200, 10, 20, 0.8);
+}
+
+/* 锁定按钮选中状态 */
+#lockButton:checked {
+    background-color: rgba(74, 144, 226, 0.3);
+    border-color: rgba(74, 144, 226, 0.8);
+    color: #ffffff;
+}
